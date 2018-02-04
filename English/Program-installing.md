@@ -41,10 +41,11 @@ Note:
 **public static void main (String[] args)** -> This tells the program that this is the first method that the program will execute. The program is a list of instructions that we want to execute.
 
 In Java, each application has a starting point (input point), which is a method that is designated as 'main'. This means that each Java program starts with the main method.
-**public:** свако може приступити
+
+**public:** anyone can access
 	
-**static:** ово ако можеш ти објаснити шта означава
+**static:** Static means that the variable or method marked as such is available at the class level. The static keyword in java is used for memory management mainly. We can apply java static keyword with variables, methods, blocks and nested class. The static keyword belongs to the class than instance of the class.
 	
-**void:** ово ако можеш ти објаснити шта означава
+**void:** The keyword void simply tells the compiler that main( ) does not return a value. *void* is the return type. It means "this method returns nothing"
 	
-**main:** име методе
+**main:** Name of the method
