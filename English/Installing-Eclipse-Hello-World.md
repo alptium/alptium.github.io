@@ -20,7 +20,7 @@ Select to save the program to your desktop.
 
 ![screenshot of github desktop](/slike1/10.png) 
 
-When the download is complete, the icon ** Java 9 exe file ** will appear on the desktop.
+When the download is complete, the icon **Java 9 exe file** will appear on the desktop.
 
 → Double click on the icon after which it will appear :
 
