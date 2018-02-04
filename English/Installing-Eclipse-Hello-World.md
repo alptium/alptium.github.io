@@ -47,3 +47,39 @@ And now the process of installing Java programs begins.
 ![screenshot of github desktop](/slike1/6.png)
 
 ![screenshot of github desktop](/slike1/7.png)
+
+
+
+
+**Installing the Eclipse program**
+
+Оpen **Google** and type Eclipse Java download
+-> click on the field marked with an arrow
+
+![screenshot of github desktop](/slike1/12.png)
+
+Click on the marked fields shown in the next two images: 
+
+![screenshot of github desktop](/slike1/13.png)
+
+
+![screenshot of github desktop](/slike1/14.png)
+
+In the lower left corner of the computer, a file will appear as shown in the picture -> click on file  
+
+
+![screenshot of github desktop](/slike1/15.JPG)
+
+After clicking on a file, a new window will appear. Choose field -> **Eclipse IDE for Java Developers**
+
+
+![screenshot of github desktop](/slike1/16.JPG)
+
+And in the next window -> **Install**
+
+![screenshot of github desktop](/slike1/17.JPG)
+
+The next step determines where to store what is happening in the Eclipse program
+
+
+![screenshot of github desktop](/slike1/18.JPG)
