@@ -91,12 +91,8 @@
 ## Инсталација Git Hub Desktop програма <h2>
 
 
+
 1. Отворити Google, затим укуцати **Git Hub Desktop Download**. 
-
-
-
-
-![screenshot of github desktop](/github/untitled.png)
 
 
 
@@ -106,17 +102,9 @@
 
 
 
-![screenshot of github desktop](/github/untitled1.png)
-
-
 
 
 3. Када се отвори нова страница, кликнути на **Download for Windows (64 bit)** или **Download for macOS** - у зависности од оперативног система који подржава ваш рачунар.
-
-
-
-
-![screenshot of github desktop](/github/untitled2.png)
 
 
 
@@ -126,22 +114,12 @@
 
 
 
-![screenshot of github desktop](/github/untitled3.png)
-
-
-
-
-![screenshot of github desktop](/github/untitled4.png)
-
-
 
 
 5. Адекватно инсталиран и покренут програм треба да изгледа као на слици испод.
 
 
 
-
-![screenshot of github desktop](/github/untitled5.png)
 
 
 
