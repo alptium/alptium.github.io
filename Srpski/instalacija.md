@@ -91,35 +91,21 @@
 ## Инсталација Git Hub Desktop програма <h2>
 
 
-
 1. Отворити Google, затим укуцати **Git Hub Desktop Download**. 
-
-
-
+![untitled](https://user-images.githubusercontent.com/35116168/35834992-7f8ac6da-0ad8-11e8-9e18-c5ffa08d6597.png)
 
 2. Кликнути на **GitHub Desktop | Simple Collaboration from your desktop**,као што је приказано на слици.
-
-
-
-
-
+![untitled1](https://user-images.githubusercontent.com/35116168/35835045-c21314da-0ad8-11e8-92cb-efc0cdbff5f5.png)
 
 3. Када се отвори нова страница, кликнути на **Download for Windows (64 bit)** или **Download for macOS** - у зависности од оперативног система који подржава ваш рачунар.
-
-
-
+![untitled2](https://user-images.githubusercontent.com/35116168/35835105-15472bb4-0ad9-11e8-8f3d-e27c633fd068.png)
 
 4. Пошто се преузимање заврши, отвориће се прозор са упитом да се улогујете уколико већ имате Git Hub налог или да направите нови.
-
-
-
-
-
+![untitled3](https://user-images.githubusercontent.com/35116168/35835111-24225000-0ad9-11e8-8bc1-6dd8322d4e6c.png)
+![untitled4](https://user-images.githubusercontent.com/35116168/35835112-244c950e-0ad9-11e8-8448-d0f26b66fe65.png)
 
 5. Адекватно инсталиран и покренут програм треба да изгледа као на слици испод.
-
-
-
+![untitled5](https://user-images.githubusercontent.com/35116168/35835126-341e1584-0ad9-11e8-8243-be2b7067942e.png)
 
 
 
