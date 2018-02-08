@@ -1,13 +1,19 @@
-## Introduction <h2>
+## Introduction in JAVA programming<h2>
 
-Eclipse tutorial is programing environment (integrated development environment (IDE)) written in Java programming language. It can be also used for developing applications in different programming languages. Java us platform independent, which means that the java source code can run on all operating systems and in many other platforms. This tutorial will teach you how to develop software project, using Eclipse IDE.
-To whom is this tutorial dedicated?
-The tutorial is dedicated to all beginners and it will help them to understand the basic functions of the Eclipse tool.
-What is necessary to have?
+**To whom the tutorial is dedicated?**
+
+Tutorial is dedicated to all begginers, as well as to those who has some experience in programming.
+
+
+**What is necessary to have?**
+
 At the beginning, you need to have installed programs Java JDK and Eclipse as well as Git Hub Desktop (Particular chapter is dedicated to installation of programs). This means that we will use JDK (Java Development Toolkit) and some of IDE (Integrated Development Environment) tools, as it is Eclipse program. 
-What is actually Java and what Eclipse program? 
-Java –Java is an independent platform program. This means that, when we once make our program in Java, we can apply and activate it using many different platforms. 
-Eclipse - It is integrated Development Environment (IDE), written in Java. It can be also used for implementation of applications in other programming languages.
+
+**What is actually Java and what Eclipse program?**
+
+**Java** – Java is an independent platform program. This means that, when we once make our program in Java, we can apply and activate it using many different platforms. 
+
+**Eclipse** - It is integrated Development Environment (IDE), written in Java. It can be also used for implementation of applications in other programming languages.
 
 ## How to create a new program in Java?  <h2> 
 We will create simple program, which will have the task to show at the screen text “Hello World”
