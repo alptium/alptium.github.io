@@ -20,13 +20,15 @@ At the beginning, you need to have installed programs Java JDK and Eclipse as we
 We will create simple program, which will have the task to show at the screen text “Hello World”
 
 1. Click on ** File** -> choose *New*, then click on -> **Java project**
- ![screenshot of github desktop](/slike/eklips3.png)
+
+![screenshot of github desktop](/slike/eklips3.png)
 
 2. After this command, it will shows up a window in which we enter the name of a new project (in this case ‘Test project 2’ )  -> **Finish**
 
 ![screenshot of github desktop](/slike/eklips4.png)
 
-3. In Eclipse, now it will show up a folder, which we’ve made with a name which we choose for project.     
+3. In Eclipse, now it will show up a folder, which we’ve made with a name which we choose for project.   
+  
 ![screenshot of github desktop](/slike/eklips10.png) 
  
 ![screenshot of github desktop](/slike/3a.png)
