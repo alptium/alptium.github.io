@@ -19,7 +19,7 @@ At the beginning, you need to have installed programs Java JDK and Eclipse as we
 
 We will create simple program, which will have the task to show at the screen text “Hello World”
 
-1. Click on **File** -> choose *New*, then click on -> **Java project**
+1. Click on **File** -> choose **New**, then click on -> **Java project**
 
 ![screenshot of github desktop](/slike/eklips3.png)
 
