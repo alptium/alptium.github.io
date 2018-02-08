@@ -78,7 +78,7 @@
 
 Линија 6: System.out.println (“Hello World!”); 
 
-1. File →Save → и корак за покретање кликом на **Run main** 
+1. File → Save → и корак за покретање кликом на **Run main** 
 
 ![screenshot of github desktop](/slike/eklipse9.png) 
  
