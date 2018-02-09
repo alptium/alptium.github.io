@@ -29,9 +29,15 @@
 
 [Installing Eclipse Hello World Program](English/Installing-Eclipse-Hello-World.md)
 
-[Program installing](English/Program-installing.md)
+[Command Line IO](English/Command-Line-IO.md)
+
+[Basic Mathematical Operators](English/Basic-mathematical-operators.md)
+
+[Else and If Functions](English/Else-and-If-functions.md)
 
 [Git Hub Use](English/Git-Hub-Use.md)
+
+[Program installing](English/Program-installing.md)
 
 [About us](English/About-us.md)
 
