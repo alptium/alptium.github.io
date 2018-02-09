@@ -1,4 +1,4 @@
-# АЛПТИУМ ПРОГРАМИРАЊЕ
+﻿# АЛПТИУМ ПРОГРАМИРАЊЕ
 
 
 ## СРПСКИ
@@ -8,11 +8,18 @@
 
 [Покретање "Hello world" у Eclipsе програму](Srpski/pokretanje.md)
 
-[Инсталација програма](Srpski/instalacija.md)
+[Kомандна линија](Srpski/Командна-линија.md)
+
+[Базичне математичке операције](Srpski/Базичне-математичке-операције.md)
+
+[Else и If функције](Srpski/ELSE-и-IF-функције.md)
 
 [Рад у GitHub Desktop програму](Srpski/rad-u-Git-Hub.md)
 
+[Инсталација програма](Srpski/instalacija.md)
+
 [O нама](Srpski/o-nama.md)
+
 
 
 ## ENGLISH
