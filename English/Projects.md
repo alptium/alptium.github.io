@@ -18,5 +18,9 @@
 
 ### Sports / Nutrition
 
-* **(PENDING)** PENDING_REPO Branko and Nikita had some similar ideas regarding sports (basketball / soccer), keeping track of game statistics, informaton about players, etc. Pending check if projects could be merged.
+* **(PENDING - sport statistics)** PENDING_REPO Branko and Nikita had some similar ideas regarding sports (basketball / soccer), keeping track of game statistics, informaton about players, etc. Pending check if projects could be merged.
 * **Run 'n' run** PENDING_REPO Developers: Sandra Atijas (saki3663). Registration, editing information about user, calculating shortest route, add friends, follow other users, share your success. Also, connecting to other applications. Some food program, according to activities.
+
+### Marketing / Social Networking
+
+* **(PENDING NAME - pets)** PENDING_REPO Developers: Marija Bircevic (@MarijaBircevic). Developing application focused on dogs, containing dog profiles, location  sharing (which are the most important part of the application that will show the closest parks for dogs, dogs nearby), profile ranking and profile upgrading, chat, forum as well as advertising space.
