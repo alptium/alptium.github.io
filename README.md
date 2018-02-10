@@ -1,8 +1,7 @@
-﻿# АЛПТИУМ ПРОГРАМИРАЊЕ
+﻿# АЛПТИУМ
 
 
-## СРПСКИ
-
+## ЈАВА ПРОГРАМИРАЊЕ 
 
 [Увод у Јава програмирање](Srpski/Uvod.md)
 
@@ -21,9 +20,22 @@
 [O нама](Srpski/o-nama.md)
 
 
+## ПРОЦЕСИ И ПРОЦЕДУРЕ
 
-## ENGLISH
 
+## ЗАПОШЉАВАЊЕ
+
+
+## ДРУШТВА И ДОГАЂАЈИ
+
+
+===========================================================
+
+
+# ALPTIUM
+
+
+## JAVA PROGRAMING
 
 [Introduction To Java](English/Introduction.md)
 
@@ -42,8 +54,14 @@
 [About us](English/About-us.md)
 
 
+## PROCESSES AND PROCEDURES
 
 
+## RECRUITMENT
 
+[How To Write a CV](English/How-to-write-a-CV.md)
+
+
+## SOCIETIES AND EVENTS
 
 
