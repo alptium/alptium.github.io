@@ -12,7 +12,7 @@
 
 [Базичне математичке операције](Srpski/Базичне-математичке-операције.md)
 
-[Else и If функције](Srpski/ELSE-И-IF-функције.md)
+[Else и If функције](Srpski/ELSE-и-IF-функције.md)
 
 [Рад у GitHub Desktop програму](Srpski/rad-u-Git-Hub.md)
 
