@@ -53,12 +53,14 @@
 
 [Git Hub Use](English/Git-Hub-Use.md)
 
-[Program installing](English/Program-installing.md)
+[Program Installing](English/Program-installing.md)
 
-[About us](English/About-us.md)
+[About Us](English/About-us.md)
 
 
 ## PROCESSES AND PROCEDURES
+
+[Markdown Instructions](English/Markdown-instructions.md)
 
 
 ## RECRUITMENT
