@@ -26,6 +26,8 @@
 
 [Git Hub Desktop упутство](Srpski/Git-Hub-Desktop-упутство.md)
 
+[Питања и Одговори](English/Питања-и-одговори.md)
+
 
 ## ЗАПОШЉАВАЊЕ
 
@@ -63,6 +65,10 @@
 ## PROCESSES AND PROCEDURES
 
 [Markdown Instructions](English/Markdown-instructions.md)
+
+[Git Hub Desktop Instructions](English/Git-Hub-Desktop-Instructions.md)
+
+[Questions And Answers](English/Questions-and-Answers.md)
 
 
 ## RECRUITMENT
