@@ -11,7 +11,7 @@
 
 [Базичне математичке операције](Srpski/Базичне-математичке-операције.md)
 
-[Else и If функције](Srpski/ELSE-и-IF-функције.md)
+[Else и If функције](Srpski/ELSE-IF-функције.md)
 
 [Рад у GitHub Desktop програму](Srpski/rad-u-Git-Hub.md)
 
@@ -33,7 +33,7 @@
 
 ## ЗАПОШЉАВАЊЕ
 
-[Како написати биографију](Srpski/Биографија.md)
+[Како правилно написати биографију](Srpski/Биографија.md)
 
 
 ## ДРУШТВА И ДОГАЂАЈИ
@@ -72,10 +72,12 @@
 
 [Questions And Answers](English/Questions-and-Answers.md)
 
+[Git Hub Notifications](English/Git-Hub-notifications.md)
+
 
 ## RECRUITMENT
 
-[How To Write a CV](English/How-to-write-a-CV.md)
+[How To Write a Good CV](English/How-to-write-a-CV.md)
 
 
 ## SOCIETIES AND EVENTS
