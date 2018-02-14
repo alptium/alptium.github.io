@@ -5,6 +5,8 @@
 
 ## Iva Milošević
 
+My name is Iva Milošević. I completed an integrated master study of the Faculty of Dentistry, University of Belgrade. After that, I continued my volunteer work at the Faculty of Dentistry in Belgrade. I applied for this project because I have an interest in programming for a long period because of the dynamism and creativity of the job. In addition to programming, my job in the Alptium team is technical writing for the website, as well as leading a technical writing team. 
+
 ## Marija Birčević
 
 ## Goran Savović 
