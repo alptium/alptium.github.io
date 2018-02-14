@@ -9,12 +9,12 @@ here will be explained the procedure for asking questions on the Git Hub page:
 
 3. Click on **New issue** which is on the right side.
 
-4. On the newly created page, on the first line ** Title ** enter a short title (example: 'Question')
+4. On the newly created page, on the first line **Title** enter a short title (example: 'Question')
 
-5. On the right side are the boxes ** Assignes **, ** Labels ** and ** Project **
+5. On the right side are the boxes **Assignes**, ** Labels ** and ** Project **
 
-6. Click on ** Labels ** and type 'question', then click ** Project ** and mark 'Writing Project'
+6. Click on **Labels** and type 'question', then click **Project** and mark 'Writing Project'
 
 7. After this step, write the text of the question in the text box below the title.
 
-8. Click ** Submit new issue ** to forward the ticket.
+8. Click **Submit new issue** to forward the ticket.
