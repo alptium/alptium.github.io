@@ -1,18 +1,21 @@
-# ABOUT US <h1>
+﻿# ABOUT US 
 
 
-## Valentina Cupaæ <h2> 
+## Valentina Cupać 
 
-## Iva Miloševiæ <h2> 
+## Iva Milošević
 
-## Marija Birèeviæ <h2> 
+## Marija Birčević
 
-## Goran Savoviæ <h2> 
+## Goran Savović 
 
-## Sandra Atijas <h2> 
+## Sandra Atijas 
+ 
 My name is Sandra Atijas. I have studied Electrical Engineering, at the University of Belgrade - department Software Engineering. My master studies I have finished in Poland, at Politechnica Wroclawska - department Computer Science and Management. At the moment, Im working at EFG Eurobank, as BI Developer (BI - Bussiness Intelligence). CMostly, Im working with databases, but I want to improve my knowladge in other parts of programming, other programming languages and to get the whole picture of some system. That was the reason why I have joined this group.  
 
-## Anisja Maljm <h2> 
+## Anisja Maljm  
 
-## Nevena Nešovanoviæ <h2>
+## Nevena Nešovanović
+
+## Marko Vujičić
 
