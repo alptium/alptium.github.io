@@ -11,7 +11,7 @@ here will be explained the procedure for asking questions on the Git Hub page:
 
 4. On the newly created page, on the first line **Title** enter a short title (example: 'Question')
 
-5. On the right side are the boxes **Assignes**, ** Labels ** and ** Project **
+5. On the right side are the boxes **Assignes**, **Labels** and **Project**
 
 6. Click on **Labels** and type 'question', then click **Project** and mark 'Writing Project'
 
