@@ -71,6 +71,8 @@
 
 ## PROCESSES AND PROCEDURES
 
+[Plan And Program](English/Plan-program.md)
+
 [Markdown Instructions](English/Markdown-instructions.md)
 
 [Git Hub Desktop Instructions](English/Git-Hub-Desktop-Instructions.md)
