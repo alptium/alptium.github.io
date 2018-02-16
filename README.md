@@ -24,6 +24,8 @@
 
 ## ПРОЦЕСИ И ПРОЦЕДУРЕ
 
+[План и Програм](Srpski/План-програм.md)
+
 [Markdown упутство](Srpski/Markdown-упутство.md)
 
 [Git Hub Desktop упутство](Srpski/Git-Hub-Desktop-упутство.md)
