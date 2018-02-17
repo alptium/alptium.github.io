@@ -80,7 +80,7 @@ public class Main {
 		System.out.println("Difference is: " + a);
 ```
 
-**Task 3:** Make a calculator which will do multiplication of two variables. For this operation we will use the word 'product' for this operation: 
+**Task 3:** Make a calculator which will do multiplication of two variables. For this operation we will use the word 'product': 
 
 
 ```
@@ -116,7 +116,7 @@ public class Main {
 ```
 
 
-**Task 4:** Make a calculator which will do division of two variables. For this operation we will use the word 'quotient' for this operation:
+**Task 4:** Make a calculator which will do division of two variables. For this operation we will use the word 'quotient':
 
 
 ```
