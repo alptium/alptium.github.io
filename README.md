@@ -1,6 +1,9 @@
 ﻿# АЛПТИУМ
 
 
+[O нама](Srpski/o-nama.md)
+
+
 ## ЈАВА ПРОГРАМИРАЊЕ 
 
 [Увод у Јава програмирање](Srpski/Uvod.md)
@@ -17,10 +20,11 @@
 
 [Инсталација програма](Srpski/instalacija.md)
 
-[O нама](Srpski/o-nama.md)
 
 
 ## ПРОЦЕСИ И ПРОЦЕДУРЕ
+
+[План и Програм](Srpski/План-програм.md)
 
 [Markdown упутство](Srpski/Markdown-упутство.md)
 
@@ -45,6 +49,9 @@
 # ALPTIUM
 
 
+[About Us](English/About-us.md)
+
+
 ## JAVA PROGRAMING
 
 [Introduction To Java](English/Introduction.md)
@@ -61,10 +68,10 @@
 
 [Program Installing](English/Program-installing.md)
 
-[About Us](English/About-us.md)
-
 
 ## PROCESSES AND PROCEDURES
+
+[Plan And Program](English/Plan-program.md)
 
 [Markdown Instructions](English/Markdown-instructions.md)
 
