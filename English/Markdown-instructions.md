@@ -13,7 +13,7 @@
 
 https://guides.github.com/features/mastering-markdown/
 
-5. Here i will show the picture example. First, with a Markdown I've copied the code for pictures which looks like this:
+5. Here I will show the picture example. First, with a Markdown I've copied the code for pictures which looks like this:
 GitHub Logo
 
 ![name of the picture](/name of the folder which contain the picture/name of the picture.format)
