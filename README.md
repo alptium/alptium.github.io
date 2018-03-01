@@ -34,6 +34,8 @@
 
 [Git Hub обавештења](Srpski/Git-Hub-обавештења.md)
 
+[Објава грешака у текстовима](Srpski/Грешке-у-текстовима.md)
+
 
 ## ЗАПОШЉАВАЊЕ
 
@@ -80,6 +82,8 @@
 [Questions And Answers](English/Questions-and-Answers.md)
 
 [Git Hub Notifications](English/Git-Hub-notifications.md)
+
+[Errors In The Texts](English/Text-Errors.md)
 
 
 ## RECRUITMENT
