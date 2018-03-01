@@ -16,6 +16,12 @@
 
 [Else и If функције](Srpski/ELSE-IF-функције.md)
 
+[Низови или Arrays](Srpski/Низови-Arrays.md)
+
+[Петље или Loops](Srpski/Петље-Loops.md)
+
+[Искази кондиционала](Srpski/Boolean-логика.md)
+
 [Рад у GitHub Desktop програму](Srpski/rad-u-Git-Hub.md)
 
 [Инсталација програма](Srpski/instalacija.md)
@@ -65,6 +71,12 @@
 [Basic Mathematical Operators](English/Basic-mathematical-operators.md)
 
 [Else and If Functions](English/Else-and-If-functions.md)
+
+[Arrays](English/Arrays.md)
+
+[Loops](English/Loops.md)
+
+[Boolean Logic](English/Boolean-Logic.md)
 
 [Git Hub Use](English/Git-Hub-Use.md)
 
