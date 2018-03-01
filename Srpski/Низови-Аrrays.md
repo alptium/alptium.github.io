@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿## ARRAYS ИЛИ НИЗОВИ
 
 
@@ -172,5 +171,4 @@ public class Main {
 ```		
 
 =======
-﻿
->>>>>>> 8faeae322c3ba7b7d96e5007b537b1b02b15d900
+
