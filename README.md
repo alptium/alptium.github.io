@@ -16,7 +16,7 @@
 
 [Else и If функције](Srpski/ELSE-IF-функције.md)
 
-[Низови или Arrays](Srpski/Низови-Arrays.md)
+[Низови или Arrays](Srpski/Низови-Аrrays.md)
 
 [Петље или Loops](Srpski/Петље-Loops.md)
 
