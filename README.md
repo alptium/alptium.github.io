@@ -30,13 +30,13 @@
 
 ## ПРОЦЕСИ И ПРОЦЕДУРЕ
 
-[План и Програм](Srpski/План-програм.md)
+[План и Програм/Фазе у изради пројекта](Srpski/План-програм.md)
 
 [Markdown упутство](Srpski/Markdown-упутство.md)
 
 [Git Hub Desktop упутство](Srpski/Git-Hub-Desktop-упутство.md)
 
-[Питања и Одговори](Srpski/Питања-и-одговори.md)
+[Питања и одговори](Srpski/Питања-и-одговори.md)
 
 [Git Hub обавештења](Srpski/Git-Hub-обавештења.md)
 
@@ -85,7 +85,7 @@
 
 ## PROCESSES AND PROCEDURES
 
-[Plan And Program](English/Plan-program.md)
+[Plan And Program/Project Process](English/Plan-program.md)
 
 [Markdown Instructions](English/Markdown-instructions.md)
 
