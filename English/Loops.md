@@ -37,6 +37,7 @@ public class Main {
 If in a memory of a program we have an array of data, for example array of names in determined positions, as it is shown in example:
 
 
+```
 package conditionals;
 
 import java.util.Date;
@@ -55,6 +56,7 @@ public class Main {
 	}
 }
 ```
+
 ...and we want program to write those values, then we need to introduce new syntax. That is a 'counter' which will facilitate the process of repeating some operation.  We will explain in the following example, where ‘i’ represents counter. This example will show us as well use of two types of variables -  Integer и Boolean.
 
 
@@ -85,12 +87,12 @@ public class Main {
 	}
 }
 ```
-			
+
+
 This means that in the box 'i' value 0: **int i = 0;**. However, we put the condition that 'i' is less than  4: **while (i < 4)**. 
 
-
- 
 int = i + 1; this should be read from right to left, which means  result   **i + 1;** put into a box **'i'**
+
 
 When we apply this operation in the system of loops (repeating), the program will behave like this:
 
