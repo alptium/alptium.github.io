@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## LOOPS - WHILE / FOR
 
 
