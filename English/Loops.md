@@ -6,7 +6,7 @@ In this lecture, we will learn how to change values in “memory boxes” by usi
 
 Loops allow repetition of some statement or groups of statements. 
 
-**Example:**This example will help us to understand how loops work: 
+**Example:** This example will help us to understand how loops work: 
 
 If we would change value which is inside the memory box, previous version which had been inside would be erased. This will be shown with following examples. It should be emphasized that it is possible to exist only one value inside memory box. 
 
@@ -34,7 +34,9 @@ public class Main {
 ```
 
 
-If in a memry of a program we have an array of data, for example array of names in determined positions, as it is shown in example:
+If in a memory of a program we have an array of data, for example array of names in determined positions, as it is shown in example:
+
+
 package conditionals;
 
 import java.util.Date;
@@ -90,17 +92,19 @@ This means that in the box 'i' value 0: **int i = 0;**. However, we put the cond
  
 int = i + 1; this should be read from right to left, which means  result   **i + 1;** put into a box **'i'**
 
-When we apply this operation in the system of loops (repeating) , the program will behave like this:
+When we apply this operation in the system of loops (repeating), the program will behave like this:
 
 1. If the value if box is 0, program is asking (checking the condition) if 0 < 4. As the statement is true, program will print value of people array with index 0. Previously, we determined that array of people with index number 0 has value 'Valentina', so that string will program print.
 
 2. After this, there is another circle of loop. Previous value of box “i” will be erased and there is a new value equal to 1. **while (i < 4)**.
 
-3. If the value if box is 1 program is asking (checking the condition) if 1 < 4. As the statement is true, program will print value of people array with index 1. Previously, we determined that array of people with index number 1 has value Marija, so that string will program print.
+3. If the value of box is 1, program is asking (checking the condition) if 1 < 4. As the statement is true, program will print value of people array with index 1. Previously, we determined that array of people with index number 1 has value Marija, so that string will program print.
 
-4. If the value if box is 2 program is asking (checking the condition) if 2 < 4. As the statement is true, program will print value of people array with index 2. Previously, we determined that array of people with index number 2 has value Marko, so that string will program print.
+4. If the value of box is 2, program is asking (checking the condition) if 2 < 4. As the statement is true, program will print value of people array with index 2. Previously, we determined that array of people with index number 2 has value Marko, so that string will program print.
+
 Program will repeat this operation until the following situation happens: 
-5. If the value if box is 4program is asking (checking the condition) if 4< 4. As the statement is false, loops finishes here.
+
+5. If the value of box is 4, program is asking (checking the condition) if 4 < 4. As the statement is false, loops finishes here.
 This means that program has printed names of people which we determine to be in the array up to index 4. 
 
 
@@ -138,6 +142,6 @@ This means:
 - ј has value 0.
 - Do commands within loop body..
 - Icrease counter by 1 (ј++). 
-- This do until j<4.
+- Do this until j < 4.
 				
 =======
