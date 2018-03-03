@@ -6,9 +6,17 @@
 
 ## ЈАВА ПРОГРАМИРАЊЕ 
 
+### ИНСТАЛАЦИЈА ПРОГРАМА И ПОДЕШАВАЊА
+
 [Увод у Јава програмирање](Srpski/Uvod.md)
 
 [Покретање "Hello world" у Eclipsе програму](Srpski/pokretanje.md)
+
+[Инсталација програма](Srpski/instalacija.md)
+
+[Рад у GitHub Desktop програму](Srpski/rad-u-Git-Hub.md)
+
+### FOUNDATIONS ? 
 
 [Kомандна линија](Srpski/Командна-линија.md)
 
@@ -22,10 +30,21 @@
 
 [Искази кондиционала](Srpski/Boolean-логика.md)
 
-[Рад у GitHub Desktop програму](Srpski/rad-u-Git-Hub.md)
 
-[Инсталација програма](Srpski/instalacija.md)
+### ОБЈЕКТНО ОРИЈЕНТИСАНО ПРОГРАМИРАЊЕ
 
+### RELATIONAL DATABASES ?
+
+Database Normalization ?
+Database Relationships ?
+Hibernate ?
+
+### WEB APPLICATIONS ?
+
+Java Spring MVC CRUD Application ?
+
+
+## ПРОЈЕКАТ МЕНАЏМЕНТ
 
 
 ## ПРОЦЕСИ И ПРОЦЕДУРЕ
@@ -65,9 +84,17 @@
 
 ## JAVA PROGRAMING
 
+### Installation & Setup
+
 [Introduction To Java](English/Introduction.md)
 
 [Installing Eclipse Hello World Program](English/Installing-Eclipse-Hello-World.md)
+
+[Program Installing](English/Program-installing.md)
+
+[Git Hub Use](English/Git-Hub-Use.md)
+
+### Foundations
 
 [Command Line IO](English/Command-Line-IO.md)
 
@@ -81,9 +108,22 @@
 
 [Boolean Logic](English/Boolean-Logic.md)
 
-[Git Hub Use](English/Git-Hub-Use.md)
+### Object Oriented Programing
 
-[Program Installing](English/Program-installing.md)
+### Relational Databases
+
+[Database Normalization](English/Database-normalization.md)
+
+[Database Relationships](English/Database-relationships.md)
+
+[Hibernate](English/Hibernate.md)
+
+### Web Applications
+
+[Java Spring MVC CRUD Application](English/Java-spring-mvc-crud.md)
+
+
+## PROJECT MANAGEMENT
 
 
 ## PROCESSES AND PROCEDURES
