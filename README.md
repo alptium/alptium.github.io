@@ -42,6 +42,9 @@
 
 [Објава грешака у текстовима](Srpski/Грешке-у-текстовима.md)
 
+[Водич за ауторе](Srpski/Водич-за-ауторе.md)
+
+
 
 ## ЗАПОШЉАВАЊЕ
 
@@ -96,6 +99,8 @@
 [Git Hub Notifications](English/Git-Hub-notifications.md)
 
 [Errors In The Texts](English/Text-Errors.md)
+
+[Author's Guide](English/Author's-Guide.md)
 
 
 ## RECRUITMENT
