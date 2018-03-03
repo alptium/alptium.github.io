@@ -97,7 +97,7 @@ public class Main {
 *Note:* The names of variables in strings - 'Arrays' are written in the plural : balances, haveLoans, genders, accountIds... 
 
 
-**Example 4:** Write down an array to show if customers have an open credit - *haveLoans*. For this operation, we will use a type of variable that has two values, true or false, and that is Boolean тип.
+**Example 4:** Write down an array to show if customers have an open credit - *haveLoans*. For this operation, we will use a type of variable that has two values, true or false, and that is Boolean type.
 
 
 ```
@@ -124,7 +124,7 @@ public class Main {
 *Note:* Names of Boolean variables, start with -have, -has, -is etc... 
 
 
-**Example 5:** Write down the array by which we will present the account number. As far as integers are concerned, we will use type variables *Integer*
+**Example 5:** Write down the array by which we will present the account number. As far as integers are concerned, we will use type variables *Integer*.
 
 
 ```
@@ -148,7 +148,7 @@ public class Main {
 ```
 
 
-**Note:** Write down the array by which we will present a gender of the users. We will use a type of character variable, that is*Character*
+**Note:** Write down the array by which we will present a gender of the users. We will use a type of character variable, that is*Character*.
 
 
 ```
