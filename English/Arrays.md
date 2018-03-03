@@ -61,11 +61,11 @@ public class Main {
 ```
 
 
-*Note:* String[] people = new String[4]; - што би значило 'направи нови низ карактера и нека њихова дужина буде 4'
+*Note:* String[] people = new String[4]; - which would mean 'make a new series of characters and let their length be 4''
 
 *Note:* String[] - these brackets means array of strings - array of characters or strings. Likewise, if we had a series of integers, the syntax would look like this -> int[] num;
 
-У низу, елементи низа су поређани и сваки има специфичну и константну позицију, која се зове индекс. Индекс позиције сваког елемента низа се налази унутар угластих заграда. 
+In arrays, the elements of the string are sorted out and each has a specific and constant position, called an index. The index of the position of each element of the string is located within the square brackets.
 
 
 **Example 3:** Write a set of data that determines the state of the account - *Balances*. For these data we will use the type of variable that determines decimal numbers, that is *Double*.
