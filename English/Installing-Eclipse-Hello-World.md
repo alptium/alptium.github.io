@@ -23,7 +23,7 @@ Computer memory can be explained on the case of boxes. It consists of boxes that
 ![screenshot of github desktop](/slike/tip2.png) 
 
 In order to process the data, it is necessary to store them somehow. Storage is done in variables or variables that are defined in Java in the beginning. Therefore, most programming languages have multiple types of information that are entered into variables. We can split them into simple or primitive types and complex or complex types.
-Примери једноставних или примитивних типова су:
+Examples of simple or primitive types are:
 
 **Int** – **Intеger** = A variable type that prints whole numbers.
 
