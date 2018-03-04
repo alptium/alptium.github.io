@@ -1,4 +1,4 @@
-# Installation instructions
+﻿# Installation instructions
 
 
 ## Installing Java JDK
@@ -49,6 +49,7 @@
 ![screenshot of github desktop](/slike1/7.png)
 
 
+=========================================================================
 
 
 ## Installing the Eclipse program
@@ -87,9 +88,10 @@
 ![screenshot of github desktop](/slike1/18.JPG)
 
 
+=========================================================================
 
 
-## Instalation of Git Hub Desktop program <h2>
+## Instalation of Git Hub Desktop program
 
 
 1. Оpen Google, then type **Git Hub Desktop Download**. 
