@@ -41,7 +41,7 @@
 
 ["Hibernate" (техника објектно-релационог мапирања код база података)](Srpski/Hibernate.md)
 
-### WEB APLIKACIJE
+### WEB АПЛИКАЦИЈЕ
 
 [Java Spring MVC CRUD Апликација](Srpski/Java-Spring-апликација.md)
 
