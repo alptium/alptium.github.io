@@ -33,17 +33,17 @@
 
 ### ОБЈЕКТНО ОРИЈЕНТИСАНО ПРОГРАМИРАЊЕ
 
-### RELATIONAL DATABASES ?
+### РЕЛАЦИОНЕ БАЗЕ ПОДАТАКА
 
-Database Normalization ?
+Нормализација (моделирање база података)
 
-Database Relationships ?
+Релационе базе података
 
-Hibernate ?
+"Hibernate" (техника објектно-релационог мапирања код база података) ?
 
-### WEB APPLICATIONS ?
+### WEB APLIKACIJE
 
-Java Spring MVC CRUD Application ?
+Java Spring MVC CRUD Апликација
 
 
 ## ПРОЈЕКАТ МЕНАЏМЕНТ
