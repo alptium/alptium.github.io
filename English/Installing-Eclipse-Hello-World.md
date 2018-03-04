@@ -92,7 +92,12 @@ So far, these have been examples of simple types. The next type is complex, it c
 
 
 
-﻿**How to make a new project ?**
+
+
+
+
+
+﻿**How to make a new project ?** <h2>
 
 We will create a simple program that will show us on the screen „Hello World!”
 
