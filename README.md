@@ -10,7 +10,7 @@
 
 [Увод у Јава програмирање](Srpski/Uvod.md)
 
-[Покретање "Hello world" у Eclipsе програму](Srpski/pokretanje.md)
+[Покретање "Hello world" у Eclipsе програму и креирање варијабли](Srpski/pokretanje.md)
 
 [Инсталација програма](Srpski/instalacija.md)
 
@@ -36,7 +36,9 @@
 ### RELATIONAL DATABASES ?
 
 Database Normalization ?
+
 Database Relationships ?
+
 Hibernate ?
 
 ### WEB APPLICATIONS ?
@@ -88,7 +90,7 @@ Java Spring MVC CRUD Application ?
 
 [Introduction To Java](English/Introduction.md)
 
-[Installing Eclipse Hello World Program](English/Installing-Eclipse-Hello-World.md)
+[Installing Eclipse Hello World Program and Creating Variables](English/Installing-Eclipse-Hello-World.md)
 
 [Program Installing](English/Program-installing.md)
 
