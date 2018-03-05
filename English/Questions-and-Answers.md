@@ -3,6 +3,7 @@
 If there are some ambiguities related to classes, problem solving, use of Git Hub, Eclipse program, etc... 
 here will be explained the procedure for asking questions on the Git Hub page:
 
+
 1. Оpen Git Hub page - alptium.github.io -> https://github.com/alptium/alptium.github.io
 
 2. Click on the field **Issues**
@@ -18,3 +19,12 @@ here will be explained the procedure for asking questions on the Git Hub page:
 7. After this step, write the text of the question in the text box below the title.
 
 8. Click **Submit new issue** to forward the ticket.
+
+
+Example of a ticket with a question:
+
+
+![screenshot of github desktop](/slike1/25.JPG)
+
+
+=============================================================
