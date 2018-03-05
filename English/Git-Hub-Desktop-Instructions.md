@@ -23,3 +23,25 @@ Same goes for if someone from 'Writing Project' group made any changes, on your 
 1. Click on **Pull** and wait for the process to finish.
 
 2. What changes where made, who made changes inside of file, you can see this by clicking on **History**. That tab can be located next to **Changes** tab inside of **Git Hub Desktop** application.
+
+** If you have a task to translate that is  all ready translated to serbian, these are the following steps:**
+
+1. Open links inside of ticket with instructions for commiting tasks, one link is based on serbian text version and the other one is based on english text version and that page is blank.
+
+2. On the new opened page for the english text version, on the right side there's an icon with a picture of pencil **Edit this file**.
+
+3. Next step is writing the english text version
+
+4. At the bottom of the page, under **Commit changes** write arbitrarily depending on what your task was.
+
+5. Mark down field **Commit directly to master branch**
+
+6. Click on **Commit changes**
+
+** When you get the task**
+
+1. Ticket with task is located in 'To do' column under 'Writing Project'.
+
+2. When starting and executing tasks, move ticket in 'In progress' column.
+
+3. After completing the task, move ticket in 'In review' column.
