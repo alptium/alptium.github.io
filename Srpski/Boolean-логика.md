@@ -52,18 +52,17 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-//symple: only salary is condition
-		
+		//symple: only salary is condition
 		
 		if (salary > 300.56) { // vece od / greater than
 			System.out.println("Your loan has been approved");
 		}else {
 			System.out.println("Your loan has been declined / rejected");
 		}
-		
 	}
 }
 ```
+
 
 Овај услов значи да ако је зарада корисника већа од 300.56, програм ће исписати да је кредит дозвољен или да кредит није дозвољен. С обзиром да наш корисник има зараду од 200.34 еура, а услов је да ће кредит бити дозвољен уколико је зарада већа од 300.56, програм ће исписати да кредит није дозвољен -> 'Your loan has been declined / rejected'. 
 
@@ -80,7 +79,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-// Complex: must have both salary "AND" be female
+		// Complex: must have both salary "AND" be female
 		
 		if(salary > 300.56 && gender == 'F') {
 			System.out.println("Your loan has been approved");
@@ -91,11 +90,11 @@ public class Main {
 }
 ```
 
+
 Овај услов значи да ако је зарада корисника већа од 300.56 и (&&) ако је корисник женског пола, програм ће исписати да је кредит дозвољен или да кредит није дозвољен. С обзиром да наш корисник има зараду од 200.34 еура (мање од услова) и да је женског пола, а услов је да ће кредит бити дозвољен уколико је зарада већа од 300.56 и (&&) да је женског пола, програм ће исписати да кредит није дозвољен -> 'Your loan has been declined / rejected'. Код  && услова, и једна и друга вредност морају бити истините да би се услов испунио.
 
 		
 **Задатак 3:** Направити банкарски програм који одређује услов да клијент има минимум примања одређене вредности или (||) 18 година. 
-
 
 
 ```
@@ -105,8 +104,7 @@ public class Main {
 
 	public static void main(String[] args) {		
 		
-// comlex: if either the person has minimun required salary, OR age is 18
-		
+		// comlex: if either the person has minimun required salary, OR age is 18
 
 		if(salary > 300.56 || age == 18) {
 			System.out.println("Your loan has been approved");
@@ -116,12 +114,12 @@ public class Main {
 	}
 }
 ```
-	
+
+
 Овај услов значи да ако је зарада корисника већа од 300.56 или (||) корисник има 18 година, програм ће исписати да је кредит дозвољен или да кредит није дозвољен. С обзиром да наш корисник има зараду од 200.34 еура, што је мање од услова, али испуњава други услов а то је да има 18 година, програм ће исписати да је кредит дозвољен -> 'Your loan has been approved'. Код || услова, једна од вредности мора бити истинита да би се услов испунио.
 
 		
 **Задатак 4:** Направити банкарски програм који одређује услов да клијент има минимум примања одређене вредности или (||) има 18 година или више од 18 година.		
-
 
 
 ```
@@ -131,9 +129,8 @@ public class Main {
 
 	public static void main(String[] args) {		
 		
-// comlex: if either the person has minimun required salary, OR age is greater than or equal 18
+		// comlex: if either the person has minimun required salary, OR age is greater than or equal 18
 		
-
 		if(salary > 300.56 || age >= 18) {
 			System.out.println("Your loan has been approved");
 		}else 
@@ -150,7 +147,6 @@ public class Main {
 **Задатак 5:** Направити банкарски програм који одређује услов да клијент има минимум примања одређене вредности или (||) има преко 18 година.
 
 
-
 ```
 package conditionals;
 
@@ -158,9 +154,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-// comlex: if either the person has minimun required salary, OR age is (strictly) greater than 18
+		// comlex: if either the person has minimun required salary, OR age is (strictly) greater than 18
 		
-
 		if(salary > 300.56 || age > 18) {
 			System.out.println("Your loan has been approved");
 		}else 
@@ -177,7 +172,6 @@ public class Main {
 **Задатак 6:** Направити банкарски програм који одређује услов да клијент има минимум примања одређене вредности и (&&) да је клијент запослен.
 
 
-
 ```
 package conditionals;
 
@@ -185,9 +179,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-// comlex: if either the person has minimun required salary, AND person is emloyed
+		// comlex: if either the person has minimun required salary, AND person is emloyed
 		
-
 		if(salary > 300.56 && isEmployed) {
 			System.out.println("Your loan has been approved");
 		}else 
@@ -196,6 +189,7 @@ public class Main {
 	}
 }
 ```
+
 
 Овај услов значи да ако је зарада корисника већа од 300.56 и (&&) да је корисник запослен, програм ће исписати да је кредит дозвољен или да кредит није дозвољен. С обзиром да наш корисник има зараду од 200.34 еура, што је мање од услова, а други услов испуњава а то је да је корисник запослен, програм ће исписати да кредит није дозвољен јер се не испуњавају оба услова-> 'Your loan has been declined / rejected'.
 
@@ -210,9 +204,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-// comlex: if either the person has minimun required salary, AND person is "NOT" a child
+		// comlex: if either the person has minimun required salary, AND person is "NOT" a child
 		
-
 		if(salary > 300.56 && !isChild) {
 			System.out.println("Your loan has been approved");
 		}else 
@@ -221,6 +214,7 @@ public class Main {
 	}
 }
 ```
+
 
 Овај услов значи да ако је зарада корисника већа од 300.56 и (&&) да корисник није дете, програм ће исписати да је кредит дозвољен или да кредит није дозвољен. С обзиром да наш корисник има зараду од 200.34 еура, што је мање од услова, а други услов испуњава а то је да корисник није дете, програм ће исписати да кредит није дозвољен јер се не испуњавају оба услова-> 'Your loan has been declined / rejected'.
 
@@ -235,10 +229,10 @@ public class Main {
 
 	public static void main(String[] args) {
 	
-// account manager for Facebook, who makes accounts for people on Facebook
+		// account manager for Facebook, who makes accounts for people on Facebook
 		
-// conditions - person must have acess to internet , must have electronic device, at least 12 years old
-// has internet access AND has electronic device, AND is at least 12
+		// conditions - person must have acess to internet , must have electronic device, at least 12 years old
+		// has internet access AND has electronic device, AND is at least 12
 
 		boolean hasInternetAccess = true;
 		boolean hasElectronicDevice = true;
@@ -257,9 +251,8 @@ public class Main {
 }
 ```
 
+
 С обзиром да корисник не испуњава један од три услова, програм ће одредити да корисник не може отворити профил на друштвеној мрежи. 
 
 
-
-		
- 
+========================================================================
