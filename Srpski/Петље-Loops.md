@@ -1,6 +1,4 @@
-﻿<<<<<<< HEAD
-﻿## LOOPS или ПЕТЉЕ - WHILE / FOR
-
+## LOOPS или ПЕТЉЕ - WHILE / FOR
 
 
 У овој лекцији ћемо научити како да мењамо вредности у меморијским кутијицама, а коришћењем петљи односно Loops.
@@ -22,7 +20,6 @@ import java.util.Date;
 public class Main {
 
 	public static void main(String[] args) {
-		
 		
 		int lala2 = 5; //creating box in memory (informal) ---initialization and assigment
 		lala2 = 7; //updating the value inside the box in memory (informal)--assingment dodeljujemo vrednost
@@ -49,7 +46,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-//Array of strings (name of people who have bank account)
+		//Array of strings (name of people who have bank account)
 				
 		String[] people = new String[4]; // array of string containing space for 4 strings
 		people[0] = "Iva";
@@ -59,8 +56,8 @@ public class Main {
 	}
 }
 ```
-..а желимо да нам програм сам исписује те низове, онда уводимо нову синтаксу, а то је 'counter' или бројач који ће олакшати процес понављања неке операције. Објаснићемо га у следећем примеру где је 'i' бројач или counter и овај пример ће нам уједно приказати примену  два типа варијабли, Integer и Boolean.
 
+..а желимо да нам програм сам исписује те низове, онда уводимо нову синтаксу, а то је 'counter' или бројач који ће олакшати процес понављања неке операције. Објаснићемо га у следећем примеру где је 'i' бројач или counter и овај пример ће нам уједно приказати примену  два типа варијабли, Integer и Boolean.
 
 
 ```
@@ -72,7 +69,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-//Array of strings (name of people who have bank account)
+		//Array of strings (name of people who have bank account)
 				
 		String[] people = new String[4]; // array of string containing space for 4 strings
 		people[0] = "Iva";
@@ -86,14 +83,15 @@ public class Main {
 			
 			System.out.println(people[i]); // испиши елемент из низа 'people' na poziciji 'i'			
 			i = i + 1; //EQUIVALENT TO : i++;
+		}
 	}
 }
 ```
+
 			
 Ово значи да је у кутијици 'i' вредност 0: **int i = 0;**. Међутим, поставили смо услов да је 'i' мање од 4: **while (i < 4)**. 
 
 
- 
 int = i + 1; ово се чита с десна на лево, а преведено значи резултат **i + 1;** пребаци у кутијицу **'i'**
 
 Кад се ова операција примени у систему петље, односно понављања, програм ће се овако понашати:
@@ -149,5 +147,4 @@ public class Main {
 - Увећај бројач за један (ј++). 
 - Ово радити све док је 1<4.
 				
-=======
-
+===========================================================================
