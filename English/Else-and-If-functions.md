@@ -1,10 +1,10 @@
 ﻿## ELSE / IF FUNCTIONS <h2>
 
 
-
 **Task:** Make a calculator which will have function that we can choose the operation. 
 
 For needs of this task, we are introducing new commands, ELSE/ IF, which will be explained by following steps: 
+
 
 **Example 1:** In this example, description of how function is working is simplified
 
@@ -20,23 +20,24 @@ public class Main {
 		
 		try(Scanner sc = new Scanner(System.in)) {
 
-		String skyColor = "blue";
+			String skyColor = "blue";
 		
-		if(skyColor == "blue")
-		{
-		System.out.println("The sky is blue, it's a nice day");
-		}
-		else if(skyColor == "grey")
-		{
-		System.out.println("The sky is gray, it's a cloudy day");
-		}
-		else if(skyColor == "red" )
-		{
-		System.out.println("The sky is red, it's a sunset");
+			if(skyColor == "blue")
+			{
+			System.out.println("The sky is blue, it's a nice day");
+			}
+			else if(skyColor == "grey")
+			{
+			System.out.println("The sky is gray, it's a cloudy day");
+			}
+			else if(skyColor == "red" )
+			{
+			System.out.println("The sky is red, it's a sunset");
 		}
 	}
 }
 ```
+
 
 **Task 2:** Display of a code in the program.
 
@@ -78,9 +79,7 @@ public class Main {
 			System.out.println("Second number is: " + secondNumber);
 			System.out.println("The result is: " + result);
 		}
-		
 	}
-
 }
 ```
 
@@ -98,50 +97,45 @@ public class Main {
 	
 		try(Scanner sc = new Scanner(System.in)) { 
 	     
-		System.out.println("Enter your first number"); 
+			System.out.println("Enter your first number"); 
 		
-		int a = sc.nextInt(); 
+			int a = sc.nextInt(); 
 						   
-		System.out.println("Chose your operation +, -, *, / "); 
+			System.out.println("Chose your operation +, -, *, / "); 
 		
-		String op = sc.next(); 
+			String op = sc.next(); 
 		
-		System.out.println("Enter your second number"); 
+			System.out.println("Enter your second number"); 
 		
-		int b = sc.nextInt(); 
+			int b = sc.nextInt(); 
 		
-		int c = 0;
+			int c = 0;
  
-		if(op.equals("+")) 
-		{
-			c = a + b;
-		}
-		else if(op.equals("-")) 
-		{
-			c = a - b;
-		}
-		else if(op.equals("*")) 
-		{
-			c = a * b;
-		}
-		else if(op.equals("/")) 
-		{
-			c = a / b;
-		}
+			if(op.equals("+")) 
+			{
+				c = a + b;
+			}
+			else if(op.equals("-")) 
+			{
+				c = a - b;
+			}
+			else if(op.equals("*")) 
+			{
+				c = a * b;
+			}
+			else if(op.equals("/")) 
+			{
+				c = a / b;
+			}
 						   
-		System.out.println("Now the system calculating the result..."); .
-						
-						   
-		System.out.println("First number is: " + a);
-		System.out.println("Second number is: " + b);
-		System.out.println("The result is: " + c);
+			System.out.println("Now the system calculating the result..."); .
+										   
+			System.out.println("First number is: " + a);
+			System.out.println("Second number is: " + b);
+			System.out.println("The result is: " + c);
 		}
-		
 	}
-
 }
-
-
 ```
 
 Now, let’s explain each line of code above which we’ve written:
@@ -197,9 +191,8 @@ public class Main {
 		System.out.println("The result is: " + c);
 
 		These 3 lines show that program will print us: If the first number is A, if the second number is B, then the result is C.
-
+		}
 	}
-
 }
 
- 
+ ======================================================================

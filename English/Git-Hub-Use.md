@@ -1,14 +1,18 @@
 ## How to create GIT HUB Repository?<h2>
 
+
 1. On the web page GitHub.com we should create our account and there create a repository. In the place which is marked with a “cross”, we should click and choose **New repository**. 
 
 2. It will open the page, where we should choose the name of repository and put some description (optional). We should check field **Public** and **Initialize this repository with a README**. 
+
 
 ![screenshot of github desktop](/github-slike/1.JPG)
 
 **Note:** This repository is now available only on Git Hub account. 
 
+
 ## How to move the project from Git Hub account to our local computer? <h2>
+
 
 Next steps will show how to clone the repository to our computer.
 
@@ -16,14 +20,18 @@ Next steps will show how to clone the repository to our computer.
 
 2. Click at **File** -> **Clone repository**. In the new window, we should find the name of repository, which we’ve already made at Git Hub account (in this case "test-task") and click at the button “Clone”.
 
+
 ![screenshot of github desktop](/github-slike/2.JPG)
 
 
 ![screenshot of github desktop](/github-slike/3.JPG)
 
+
 If you have a new version of the application, the easiest way to find repository is to type into Search the name of your repository and there it will be automatically shown where the repository is saved.
 
+
 ![screenshot of github desktop](/github-slike/4.JPG)
+
 
 ## How to create website using Git Hub? <h2>
 
@@ -67,4 +75,4 @@ Following these steps, we have created the repository.
 
 ![screenshot of github desktop](/github-pages/4.JPG)
 
-
+============================================================================

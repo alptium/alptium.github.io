@@ -21,3 +21,7 @@ My name is Sandra Atijas. I have studied Electrical Engineering, at the Universi
 
 ## Marko Vujičić
 
+## Branko Spalović
+
+## Tamara Golubović
+
