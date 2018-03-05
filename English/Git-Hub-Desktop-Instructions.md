@@ -1,8 +1,10 @@
 ## GitHub Desktop instructions
 
+
 After you wrote text in file, inside of **alptium.github.io** folder on computer, there is a  following step where text and text changes will be pushed on a Web Page.
 
 *Note:* Pages in which you write texts (md files) will be all ready made and you will get them inside of ticket with a task.
+
 
 1. When you open *Git Hub Desktop* application on computer - click on **Current repository** and choose repository **alptium.github.io**.
 
@@ -24,6 +26,7 @@ Same goes for if someone from 'Writing Project' group made any changes, on your 
 
 2. What changes where made, who made changes inside of file, you can see this by clicking on **History**. That tab can be located next to **Changes** tab inside of **Git Hub Desktop** application.
 
+
 ** If you have a task to translate that is  all ready translated to serbian, these are the following steps:**
 
 1. Open links inside of ticket with instructions for commiting tasks, one link is based on serbian text version and the other one is based on english text version and that page is blank.
@@ -38,10 +41,14 @@ Same goes for if someone from 'Writing Project' group made any changes, on your 
 
 6. Click on **Commit changes**
 
-** When you get the task**
+
+**When you get the task:**
+
 
 1. Ticket with task is located in 'To do' column under 'Writing Project'.
 
 2. When starting and executing tasks, move ticket in 'In progress' column.
 
 3. After completing the task, move ticket in 'In review' column.
+
+==========================================================================
