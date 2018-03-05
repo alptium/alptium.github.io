@@ -7,7 +7,7 @@ It will be used *Integer* type of variables.
 
 *try(Scanner sc = new Scanner(System.in));* ->  is the syntax which we’ve used in these tasks and represents scanner. It is used to scan and register all methods, which we wrote and to switch to a program we make.
 
-* Note: * At the moment we enter the Scanner syntax in the program, the program will ask us to implement the scanner, and this will be achieved by holding the cursor to the syntax where a window will appear in which you want to select the * import java option. util.Scanner;*.
+* *Note:* At the moment we enter the Scanner syntax in the program, the program will ask us to implement the scanner, and this will be achieved by holding the cursor to the syntax where a window will appear in which you want to select the *import java option. util.Scanner;*.
 
 *import java.util.Scanner;* after this it is printed at the very beginning of the program, above * public class Main * which will be shown in the following tasks.
 
