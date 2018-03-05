@@ -1,7 +1,6 @@
 ## LOOPS - WHILE / FOR
 
 
-
 In this lecture, we will learn how to change values in “memory boxes” by using loops.
 
 Loops allow repetition of some statement or groups of statements. 
@@ -19,7 +18,6 @@ import java.util.Date;
 public class Main {
 
 	public static void main(String[] args) {
-		
 		
 		int lala2 = 5; //creating box in memory (informal) ---initialization and assignment
 		lala2 = 7; //updating the value inside the box in memory (informal)--assignment - defining the value in the box
@@ -46,7 +44,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-//Array of strings (name of people who have bank account)
+		//Array of strings (name of people who have bank account)
 				
 		String[] people = new String[4]; // array of string containing space for 4 strings
 		people[0] = "Iva";
@@ -57,8 +55,8 @@ public class Main {
 }
 ```
 
-...and we want program to write those values, then we need to introduce new syntax. That is a 'counter' which will facilitate the process of repeating some operation.  We will explain in the following example, where ‘i’ represents counter. This example will show us as well use of two types of variables -  Integer и Boolean.
 
+...and we want program to write those values, then we need to introduce new syntax. That is a 'counter' which will facilitate the process of repeating some operation.  We will explain in the following example, where ‘i’ represents counter. This example will show us as well use of two types of variables -  Integer и Boolean.
 
 
 ```
@@ -70,7 +68,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-//Array of strings (name of people who have bank account)
+		//Array of strings (name of people who have bank account)
 				
 		String[] people = new String[4]; // array of string containing space for 4 strings
 		people[0] = "Iva";
@@ -84,6 +82,7 @@ public class Main {
 			
 			System.out.println(people[i]); // write element from array 'people' in the position 'i'			
 			i = i + 1; //EQUIVALENT TO: i++;
+		}
 	}
 }
 ```
@@ -92,7 +91,6 @@ public class Main {
 This means that in the box 'i' value 0: **int i = 0;**. However, we put the condition that 'i' is less than  4: **while (i < 4)**. 
 
 int = i + 1; this should be read from right to left, which means  result   **i + 1;** put into a box **'i'**
-
 
 When we apply this operation in the system of loops (repeating), the program will behave like this:
 
@@ -110,7 +108,6 @@ Program will repeat this operation until the following situation happens:
 This means that program has printed names of people which we determine to be in the array up to index 4. 
 
 
-
 We have one syntax which has the same, but it looks different: 
 
 
@@ -123,7 +120,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-//Array of strings (name of people who have bank account)
+		//Array of strings (name of people who have bank account)
 				
 		String[] people = new String[4]; // array of string containing space for 4 strings
 		people[0] = "Iva";
@@ -146,4 +143,4 @@ This means:
 - Icrease counter by 1 (ј++). 
 - Do this until j < 4.
 				
-=======
+==============================================================================
