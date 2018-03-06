@@ -4,7 +4,7 @@
 1. На интернет страници GitHub.com отворимо наш налог на коме ћемо креирати repository. На месту које је означено "крстићем" кликнемо и изаберемо поље **New repository**
 
 
-![screenshot of github desktop](/github-slike/26.JPG)
+![screenshot of github desktop](/slike1/26.JPG)
 
 2. Отвара се страна на којој изаберемо назив репозиторијума, опис и маркирамо поље **Public** и **Initialize this repository with a README**
 
@@ -24,7 +24,7 @@
 2. Клик на **File** -> **Clone repository** и у новом прозору пронађемо назив репозиторијума који смо већ направили на Git Hub налогу (у овом случају "test-task") и клик на **Clone**.
 
 
-![screenshot of github desktop](/github-slike/27.JPG)
+![screenshot of github desktop](/slike1/27.JPG)
 
 
 ![screenshot of github desktop](/github-slike/2.JPG)
