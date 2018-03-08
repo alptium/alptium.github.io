@@ -25,3 +25,4 @@ My name is Sandra Atijas. I have studied Electrical Engineering, at the Universi
 
 ## Tamara Golubović
 
+My name is Tamara Golubovic and I am master engieener for soil and water conservation. I have finished my studies two years ago and since then I used to work as customer support. Now, I am working as office manager and project manager in "Mediavuk" IT company for web development and design. I have applied for this programm because I always wanted to learn programming, since it offers you opportunity to create something new, it is very dynamic and there is a lot of job opportunities. 
