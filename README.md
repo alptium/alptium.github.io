@@ -35,6 +35,9 @@
 
 [Објектно оријентисано програмирање](Srpski/Објектно-оријентисано-програмирање.md)
 
+[UML, дијаграми и повезивање класа](Srpski/UML-видљивост-метода.md)
+
+
 ### РЕЛАЦИОНЕ БАЗЕ ПОДАТАКА
 
 [Нормализација (моделирање база података)](Srpski/Нормализација.md)
@@ -115,6 +118,9 @@
 ### Object Oriented Programming
 
 [Object Oriented Programming](English/Object-Oriented-Programming.md)
+
+[UML, Diagrams and Class Connectivity](English/UML-diagrams-class-connectivity.md)
+
 
 ### Relational Databases
 
