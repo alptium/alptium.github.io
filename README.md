@@ -112,9 +112,9 @@
 
 [Boolean Logic](English/Boolean-Logic.md)
 
-### Object Oriented Programing
+### Object Oriented Programming
 
-[Object Oriented Programing](English/Object-Oriented-Programming.md)
+[Object Oriented Programming](English/Object-Oriented-Programming.md)
 
 ### Relational Databases
 
