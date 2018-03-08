@@ -37,6 +37,8 @@
 
 [UML, дијаграми и повезивање класа](Srpski/UML-видљивост-метода.md)
 
+[Основе базе података](Srpski/Основе-базе-података.md)
+
 
 ### РЕЛАЦИОНЕ БАЗЕ ПОДАТАКА
 
@@ -120,6 +122,8 @@
 [Object Oriented Programming](English/Object-Oriented-Programming.md)
 
 [UML, Diagrams and Class Connectivity](English/UML-diagrams-class-connectivity.md)
+
+[Database Basics](English/Database-basics.md)
 
 
 ### Relational Databases
