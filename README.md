@@ -114,7 +114,7 @@
 
 ### Object Oriented Programing
 
-[Object Oriented Programing](English/Object-Oriented-Programing.md)
+[Object Oriented Programing](English/Object-Oriented-Programming.md)
 
 ### Relational Databases
 
