@@ -1,4 +1,4 @@
-﻿## UML (Unified Modelling Language) - формирање дијаграма класа и видљивост метода (јавно/приватно)
+﻿## UML (Unified Modelling Language) - формирање дијаграма и повезивање класа
 
 Теме:
 
