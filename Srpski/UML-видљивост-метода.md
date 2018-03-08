@@ -185,7 +185,8 @@ PatientVaccinations[]
 | - doctor: Doctor            |
 
 
-Сада ћемо убацити реалне податке за класу 'Patient' 
+Сада ћемо убацити реалне податке за класe, односно податке за објекте унутар класа 'Patient', 'Vaccination' и 'Doctor':
+ 
 
 | Patient  object                    |
 |------------------------------------|
@@ -208,14 +209,30 @@ PatientVaccinations[]
 
 
 | Doctor  object                     |
-|----------------------------------- |
-| Petar                              |       
-|------------------------------------|      
-| Petrovic                           |        
-|------------------------------------|      
-| 1954                               |     
-|------------------------------------|        
+|------------------------------------|
+| Petar                              |          
+| Petrovic                           |              
+| 1954                               |             
 | true                               |     
 
 
     
+| PatientVaccination          |
+| ----------------------------|
+| - 1                         |
+| - 13                        |
+| - 86                        |
+| - 1987                      |
+| - patient: Patient          |
+| - vaccination: Vaccination  |
+| - doctor: Doctor            | 
+
+
+**- patient: Patient** из табеле 'PatientVaccination' садржи податке из табеле 'Patient object'.
+
+**- vaccination: Vaccination** из табеле 'PatientVaccination' садржи податке из табеле 'Vaccination object'.
+
+**- doctor: Doctor** из табеле 'PatientVaccination' садржи податке из табеле 'Doctor object'.
+    
+    
+=========================================================================
