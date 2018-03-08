@@ -33,6 +33,8 @@
 
 ### ОБЈЕКТНО ОРИЈЕНТИСАНО ПРОГРАМИРАЊЕ
 
+[Објектно оријентисано програмирање](Srpski/Објектно-оријентисано-програмирање.md)
+
 ### РЕЛАЦИОНЕ БАЗЕ ПОДАТАКА
 
 [Нормализација (моделирање база података)](Srpski/Нормализација.md)
@@ -111,6 +113,8 @@
 [Boolean Logic](English/Boolean-Logic.md)
 
 ### Object Oriented Programing
+
+[Object Oriented Programing](English/Object-Oriented-Programing.md)
 
 ### Relational Databases
 
