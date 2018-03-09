@@ -55,6 +55,14 @@
 
 ## ПРОЈЕКАТ МЕНАЏМЕНТ
 
+[SDLC - циклус и методологија развоја софтвера](Srpski/SDLC.md)
+
+[Agile - Агилне методе](Srpski/Agile.md)
+
+[Scrum](Srpski/Scrum.md)
+
+[Праћење проблема](Srpski/Праћење-проблема.md)
+
 
 ## ПРОЦЕСИ И ПРОЦЕДУРЕ
 
@@ -140,6 +148,14 @@
 
 
 ## PROJECT MANAGEMENT
+
+[SDLC](English/SDLC.md)
+
+[Agile](English/Agile.md)
+
+[Scrum](English/Scrum.md)
+
+[Issue Tracking](English/Issue-Tracking.md)
 
 
 ## PROCESSES AND PROCEDURES
