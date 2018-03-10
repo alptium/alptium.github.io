@@ -8,36 +8,36 @@
 
 ### ИНСТАЛАЦИЈА ПРОГРАМА И ПОДЕШАВАЊА
 
-[Увод у Јава програмирање](Srpski/Uvod.md)
+[Увод у Јава програмирање](Srpski/Introduction.md)
 
-[Покретање "Hello world" у Eclipsе програму и креирање варијабли](Srpski/pokretanje.md)
+[Покретање "Hello world" у Eclipsе програму и креирање варијабли](Srpski/Installing-Eclipse-Hello-World.md)
 
-[Инсталација програма](Srpski/instalacija.md)
+[Инсталација програма](Srpski/Program-installing.md)
 
-[Рад у GitHub Desktop програму](Srpski/rad-u-Git-Hub.md)
+[Рад у GitHub Desktop програму](Srpski/Git-Hub-Use.md)
 
 ### ОСНОВЕ ПРОГРАМИРАЊА 
 
-[Kомандна линија](Srpski/Командна-линија.md)
+[Kомандна линија](Srpski/Command-Line-IO.md)
 
-[Базичне математичке операције](Srpski/Базичне-математичке-операције.md)
+[Базичне математичке операције](Srpski/Basic-mathematical-operators.md)
 
-[Else и If функције](Srpski/ELSE-IF-функције.md)
+[Else и If функције](Srpski/Else-and-If-functions.md)
 
-[Низови или Arrays](Srpski/Низови-Аrrays.md)
+[Низови или Arrays](Srpski/Arrays.md)
 
-[Петље или Loops](Srpski/Петље-Loops.md)
+[Петље или Loops](Srpski/Loops.md)
 
-[Искази кондиционала](Srpski/Boolean-логика.md)
+[Искази кондиционала](Srpski/Boolean-Logic.md)
 
 
 ### ОБЈЕКТНО ОРИЈЕНТИСАНО ПРОГРАМИРАЊЕ
 
-[Објектно оријентисано програмирање](Srpski/Објектно-оријентисано-програмирање.md)
+[Објектно оријентисано програмирање](Srpski/Object-Oriented-Programming.md)
 
-[UML, дијаграми и повезивање класа](Srpski/UML-видљивост-метода.md)
+[UML, дијаграми и повезивање класа](Srpski/UML-diagrams-class-connectivity.md)
 
-[Основе базе података](Srpski/Основе-базе-података.md)
+[Основе базе података](Srpski/Database-basics.md)
 
 
 ### РЕЛАЦИОНЕ БАЗЕ ПОДАТАКА
