@@ -1,7 +1,7 @@
 ﻿# АЛПТИУМ
 
 
-[O нама](Srpski/o-nama.md)
+[O нама](Srpski/About-us.md)
 
 
 ## ЈАВА ПРОГРАМИРАЊЕ 
@@ -42,15 +42,15 @@
 
 ### РЕЛАЦИОНЕ БАЗЕ ПОДАТАКА
 
-[Нормализација (моделирање база података)](Srpski/Нормализација.md)
+[Нормализација (моделирање база података)](Srpski/Database-normalization.md)
 
-[Релационе базе података](Srpski/Релационе-базе-података.md)
+[Релационе базе података](Srpski/Database-relationships.md)
 
 ["Hibernate" (техника објектно-релационог мапирања код база података)](Srpski/Hibernate.md)
 
 ### WEB АПЛИКАЦИЈЕ
 
-[Java Spring MVC CRUD Апликација](Srpski/Java-Spring-апликација.md)
+[Java Spring MVC CRUD Апликација](Srpski/Java-spring-mvc-crud.md)
 
 
 ## ПРОЈЕКАТ МЕНАЏМЕНТ
@@ -61,30 +61,30 @@
 
 [Scrum](Srpski/Scrum.md)
 
-[Праћење проблема](Srpski/Праћење-проблема.md)
+[Праћење проблема](Srpski/Issue-Tracking.md)
 
 
 ## ПРОЦЕСИ И ПРОЦЕДУРЕ
 
-[План и Програм/Фазе у изради пројекта](Srpski/План-програм.md)
+[План и Програм/Фазе у изради пројекта](Srpski/Plan-program.md)
 
-[Markdown упутство](Srpski/Markdown-упутство.md)
+[Markdown упутство](Srpski/Markdown-instructions.md)
 
-[Git Hub Desktop упутство](Srpski/Git-Hub-Desktop-упутство.md)
+[Git Hub Desktop упутство](Srpski/Git-Hub-Desktop-Instructions.md)
 
-[Питања и одговори](Srpski/Питања-и-одговори.md)
+[Питања и одговори](Srpski/Questions-and-Answers.md)
 
-[Git Hub обавештења](Srpski/Git-Hub-обавештења.md)
+[Git Hub обавештења](Srpski/Git-Hub-notifications.md)
 
-[Објава грешака у текстовима](Srpski/Грешке-у-текстовима.md)
+[Објава грешака у текстовима](Srpski/Text-Errors.md)
 
-[Водич за ауторе](Srpski/Водич-за-ауторе.md)
+[Водич за ауторе](Srpski/Author's-Guide.md)
 
 
 
 ## ЗАПОШЉАВАЊЕ
 
-[Како правилно написати биографију](Srpski/Биографија.md)
+[Како правилно написати биографију](Srpski/How-to-write-a-CV.md)
 
 
 ## ДРУШТВА И ДОГАЂАЈИ
