@@ -39,8 +39,7 @@ At the begining, we will demostrate operations which are used for forming the co
 The Task is to make a Banking program with the following conditions, which will be shown within types:
 
 
-
-                double salary = 200.34;
+       double salary = 200.34;
 		char gender = 'F';
 		int age = 18;
 		boolean isEmloyed = true;
