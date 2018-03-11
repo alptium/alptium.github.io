@@ -40,7 +40,7 @@ The Task is to make a Banking program with the following conditions, which will 
 
 
 
-              double salary = 200.34;
+                double salary = 200.34;
 		char gender = 'F';
 		int age = 18;
 		boolean isEmloyed = true;
