@@ -71,8 +71,32 @@ public class Main {
 
 
 This condition means that if users incomes are greater than 300.56 and (&&) if user is a female gender, program will print that credit has been allowed or that credit has been rejected. 
-Considering that our user has incomes greater than 200.34 Eur (less than conditions) matching the female gender, and condition is that credit will be approved if incomes are greater than 300.56 and (&&) matching female gender, program will print that credit has been declined - > 'Your loan has been declined / rejected'. With both && conditions, both values must be true for fullfilling
-the condition.
+Considering that our user has incomes greater than 200.34 Eur (less than conditions) matching the female gender, and condition is that credit will be approved if incomes are greater than 300.56 and (&&) matching female gender, program will print that credit has been declined - > 'Your loan has been declined / rejected'. 
+
+
+On this task, practical Boolean logic is noticeable, when on basic starting situation and condtition that are set, program determines  whether is something correct or incorrect, relatively if some action is possible or not.
+
+
+**Task 2:** Make a Banking program wich determines condition that client has incomes to a certain value and (&&) condition that the client is a female gender.
+
+
+```
+package conditionals;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		// Complex: must have both salary "AND" be female
+		
+		if(salary > 300.56 && gender == 'F') {
+			System.out.println("Your loan has been approved");
+		}else 
+			System.out.println("Your loan has been declined / rejected");
+		}
+	}
+}
+```
 
 
 
