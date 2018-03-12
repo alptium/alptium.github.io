@@ -1,11 +1,13 @@
 ## Conditional statements - IF / ELSE and Boolean logic
 
+
 This lection will demonstrate a practial base of programing. Every task within this program is based on a conditional statements IF / ELSE and comparative operations, respectively Boolean logic.
 
 At the begining, we will demostrate operations which are used for forming the conditions in tasks.
 
 
                  **Comparison operators**
+
 
 **<**	Less than 
 
@@ -16,13 +18,12 @@ At the begining, we will demostrate operations which are used for forming the co
 **>=**	Greater than of equal to
 
 
-
                  **Equality operators**
+
 
 **==**	equal to
 
 **!=**	not equal to
-
 
 
                  **Boolean operations**
@@ -71,13 +72,16 @@ public class Main {
 
 
 This condition means that if users incomes are greater than 300.56 and (&&) if user is a female gender, program will print that credit has been allowed or that credit has been rejected. 
+
 Considering that our user has incomes greater than 200.34 Eur (less than conditions) matching the female gender, and condition is that credit will be approved if incomes are greater than 300.56 and (&&) matching female gender, program will print that credit has been declined - > 'Your loan has been declined / rejected'. 
 
 
 On this task, practical Boolean logic is noticeable, when on basic starting situation and condtition that are set, program determines  whether is something correct or incorrect, relatively if some action is possible or not.
 
 
+
 **Task 2:** Make a Banking program wich determines condition that client has incomes to a certain value and (&&) condition that the client is a female gender.
+
 
 
 ```
@@ -103,6 +107,7 @@ public class Main {
 **Task 3:**  Make a Banking program wich determines the condition that client has minimum incomes certain values or (||) 18 years.
 
 
+
 ```
 package conditionals;
 
@@ -121,10 +126,13 @@ public class Main {
 }
 ```
 
+
+
 This condition means that if client incomes are greater than 300.56 or (||) client has 18 years, program will print that credit is approved. Since our client has incomes of 200.34 Eur, which is less than conditions, but fulfills other conditions and that is that client has 18 years, program will print that credit is approved 'Your loan has been approved'. At || conditions, one of the values has to be true for fulfilling the condition.
 
 
 **Task 4:** Make a Banking program wich determines the condition that client has minimum incomes of certain values or (||) 18 years of more than 18 years.
+
 
 
 ```
@@ -146,11 +154,13 @@ public class Main {
 ```
 
 
+
 This condition means that if users incomes are greater than 300.56 or (||) user has 18 years or more years, program will print that credit has been approved or that credit has been rejected. 
 Considering that our user has incomes greater than 200.34 Eur, wich is less than conditions, but fulfills other condition and that is that user has 18 or more years, program will print that credit has been approved -> 'Your loan has been approved'.
 
 
 **Task 5:** Make a Banking program wich determines the condition that client has minimum incomes of certain values or (||) has more than 18 years.
+
 
 
 ```
@@ -172,11 +182,13 @@ public class Main {
 ```
 
 
+
 This condition means that if users incomes are greater than 300.56 (||) or user has more than 18 years, program will print that credit has been approved or that credit has been rejected. 
 Considering that our user has incomes greater than 200.34 Eur, wich is less than conditions, and it's not fulfilling the second condition wich is that has to have more than 18 years, program will print that credit has been rejected. 'Your loan has been declined / rejected'.
 
 
 **Task 6:**  Make a Banking program wich determines a condition that client has minimum incomes of certain values and (&&) that client is employed.
+
 
 
 ```
@@ -198,10 +210,12 @@ public class Main {
 ```
 
 
+
 This condition means that if incomes are greater than 300.56 and (&&) that user is employed, program will print credit is approved or credit is not approved. Considering that our user has income greater than 200.34 Eur, wich is less than conditions, and second condition is that the user is employed, program will print credit is not approved because both conditionals are not fulfilled. -> 'Your loan has been declined / rejected'.
 
 
 **Task 7:** Make a Banking program wich determines conditions that client has minimum incomes of certain values and (&&) that the client is not a child.
+
 
 
 ```
@@ -220,6 +234,7 @@ public class Main {
 		}
 	}
 }
+
 ```
 
 
@@ -259,6 +274,8 @@ public class Main {
 	}
 }
 ```
+
+
 
 Considering that user is fulfilling one of three conditions, program will determine that user can't open a profile on a social network.
 
