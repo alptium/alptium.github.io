@@ -35,7 +35,7 @@ This is something we are investigating ourselves.
 
 *Investigate on the Internet:* Software Architecture Layers
 
-Three layer architecture - short
+Three layer architecture - short description
 
 	1. Presentation layer - refers to the appearance, display layer, what is visible to the user
 	
@@ -72,9 +72,10 @@ Date base layer - this is done in SQL =====> BACKEND DEVELOPER
 
 Suggestion - Start with the most important elements
 
-1. Start with what is most simple - enter data eg. patient information, doctor
+	1. Start with what is most simple - enter data eg. patient information, doctor
 
-2. Then start with the predictive function - for example, the program itself finds, for example, a diagnosis
+	2. Then start with the predictive function - for example, the program itself finds, for example, a diagnosis
+
 
 2. **TESTING** - testing
 
@@ -157,3 +158,5 @@ Video and pictures for the program - self-initiative
 
 Introductory class for - HTML, CSS, JavaScript, SQL 
 
+
+============================================================================
