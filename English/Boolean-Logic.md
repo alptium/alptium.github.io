@@ -98,6 +98,8 @@ public class Main {
 }
 ```
 
+This condition means if users income is greater than 300.56 and (&&) if user is a female gender, program will print that credit is allowed. Considering that our client must have an income of 200.34 Eur (less than conditions) and it's a female gender, and condtion is that credit will be permited if incomes are greater than 300.56 and (&&) it's a female gender, program will print that credit is not allowed -> 'Your loan has been declined / rejected'. At && condtions, both values has to be true for condtions to be fulfilled
+
 
 
 **Task 3:**  Make a Banking program wich determines the condition that client has minimum incomes certain values or (||) 18 years.
