@@ -56,4 +56,4 @@
     
     else
     
-    console.log('Zao nam je, ne možeš da polažeš vožnju')
+    console.log('Žao nam je, ne možeš da polažeš vožnju')
