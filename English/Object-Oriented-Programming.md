@@ -66,6 +66,7 @@ How is all this connected?
 
 Names are in the programming of classifications of something (class doctor, class student, class teacher ...). So they mean one class.
 
+
 For the 'doctor' class we have information about specific doctors:
 
 Dr Petar Petrovic
@@ -94,7 +95,9 @@ So, for the doctor class, the object is Dr. Petar Petrovic, for the student clas
 
 Verbs determine some operations or actions, or what the object is doing.
 
+
 Objects from the class doctor can do the following:
+
 
 -View of the patient
 
@@ -102,9 +105,11 @@ Objects from the class doctor can do the following:
 
 -Treatment therapy, etc.
 
+
 All these operations are called programming in the programming - **methods**.
 
 The doctor is a **class**, Doctor Petar Petrovic is a **object**, and what the object does is a **method**.
+
 
 What information do we have about a doctor?
 
@@ -118,8 +123,11 @@ What information do we have about a doctor?
 
 -Full time employee (Boolean)
 
+
 These examples are basically nouns, but they represent primitive nouns and they are called **attributes**. Attributes actually contain information about each object in the class. The bracket contains the attribute information type.
+
 Ово све представља анализу софтвера. Одређујемо шта су класе, атрибути, методе.
+
 
 Applied in writing code and programming these data will look like this, but one way to write code that is not object-oriented will be shown first:
 
