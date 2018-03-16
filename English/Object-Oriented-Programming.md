@@ -45,9 +45,12 @@ clock
 glass
 
 
+
 Then we will print examples of some verbs:
 
+
 - Verbs for the noun doctor, student:
+
 
 doctor - asks questions, checks, writes diagnoses, writes therapy ...
 
@@ -56,7 +59,9 @@ student - learns, reads, drinks coffee
 teacher - writes, lectures ..
 
 
+
 How is all this connected?
+
 
 
 Names are in the programming of classifications of something (class doctor, class student, class teacher ...). So they mean one class.
@@ -68,7 +73,9 @@ Dr Petar Petrovic
 Dr Marija Marjanovic
 
 Dr Jovan Jovanovic
+
 ...
+
 
 For the class 'student' we have information about concrete students:
 
@@ -78,7 +85,9 @@ Vasilija Vasiljević
 
 ...
 
+
 How does this translate into programming?
+
 
 Specific instances of certain classifications are the names that we have written and these are class objects. Object or instance are synonyms.
 So, for the doctor class, the object is Dr. Petar Petrovic, for the student class, the object is Jelena Jovanovic etc.
