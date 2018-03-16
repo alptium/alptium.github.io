@@ -75,6 +75,7 @@ For the class 'student' we have information about concrete students:
 Jelena Jovanovic
 
 Vasilija Vasiljević
+
 ...
 
 How does this translate into programming?
@@ -168,7 +169,7 @@ public class Main {
 ```
 
 
-*Note*:
+*Note* :
 
  System.out.println(); - the printed syntax in this way prints an empty line in the program.
 
