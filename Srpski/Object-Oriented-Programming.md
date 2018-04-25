@@ -284,7 +284,7 @@ Oво до сада објашњено није било објектно ори
 
 - Date
 
-- Doctor - је сложени тип који смо ми измислили зато што садржи више типова информација у себи.
+- Doctor - је сложени тип који смо ми измислили зато што садржи више типова информација у себи. И то је она класа са груписаним подацима о докторима, коју ћемо само позвати у коду да нам повуче информације које су нам потребне.
 
 Значи испишемо низ од 3 доктора:
  
@@ -306,11 +306,11 @@ for(int i = 0; i < 3; i++)
 	System.out.println("Name: " + doctor.getName());
 	System.out.println("Surname: " + doctor.getSurname());
 	System.out.println("Year of Birth: " + doctor.getbirthYear());
-	System.out.println("Are employed fulltime: " + doctor.isFulltimeEmployees());
+	System.out.println("Are employed fulltime: " + doctor.getIsFulltimeEmployees());
 ```
 
 
-*Напомена:* када смо у програму укуцали doctor па тачку -> [System.out.println("Name: " + doctor.getName());] Eclipse је одмах препознао и понудио методе које смо ми дефинисали ( getName, getSurname, getbirthYear, getisFulltimeEmployee )
+*Напомена:* када смо у програму укуцали doctor па тачку -> [System.out.println("Name: " + doctor.getName());] Eclipse је одмах препознао и понудио методе које смо ми дефинисали ( getName, getSurname, getbirthYear, getIsFulltimeEmployee )
 
 
 И сада већ уочавамо да имамо два начина програмирања:
@@ -381,7 +381,7 @@ private static void runDemo2() {
 			System.out.println("Name: " + doctor.getName());
 			System.out.println("Surname: " + doctor.getSurname());
 			System.out.println("Year of Birth: " + doctor.getbirthYear());
-			System.out.println("Are employed fulltime: " + doctor.isFulltimeEmployees());
+			System.out.println("Are employed fulltime: " + doctor.getIsFulltimeEmployees());
 ```
 
 
