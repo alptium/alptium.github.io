@@ -58,6 +58,9 @@ CREATE TABLE <naziv tabele>
      <naziv kolone2> <tip podataka> [not null],
      ...
     )
+- Следећи упит ће креирати табелу "студенти":
+
+![create](/github-slike/create.png)
 
 **Генерички DDL упит за креирање семантичког домена:**
 
@@ -65,11 +68,17 @@ CREATE DOMAIN <naziv domena> [AS] <predefinisani tip>
     [DEFAULT <vrednost>]
     [[CONSTRAINT <naziv ogranicenja>] CHECK (<ogranicenje>)]
      ...
+- Следећи упит ће креирати домен над колоном "године" и поставља се ограничење да године морају бити преко 18:  
+    
+![domain](/github-slike/domain.png)
      
  **Генерички DDL упит за измену дефиниције релације(табеле):**
  
  ALTER TABLE <naziv tabele>
- ADD [COLUMN] <definicija kolone>
+ ADD [COLUMN] <definicija kolone> 
+ - Следећи упит ће табели "студенти" додати колону "датум_рођења":
+ 
+ ![alter](/github-slike/alter.png)
  
 ## Језик за манипулацију подацима (Data Manipulation Language)
 
@@ -79,23 +88,35 @@ CREATE DOMAIN <naziv domena> [AS] <predefinisani tip>
 
 SELECT < lista atributa >
     FROM < lista relacija >
-    WHERE < kvalifikacioni izraz >
+    WHERE < kvalifikacioni izraz >    
+- Следећи упит ће вратити све редове табеле "студенти" који су на буџету - у колони "статус" имају вредност "буџет":
+    
+![select](/github-slike/select.png)
     
 **Генерички упит за убацивање података у базу:**
 
 INSERT INTO naziv_tabele
     VALUES (vrednost_atr1, vrednost_atr2,. .. )
-    
+- Следећи упит ће убацити нови ред у табелу "студенти":
+
+![insert](/github-slike/insert.png)
+
 **Генерички упит за брисање података из базе:**
 
 DELETE FROM naziv_tabele
+- Следећи упит ће избрисати све редове из табеле "студенти" који имају шифру смера 1:
+
+![delete](/github-slike/delete.png)
 
 **Генерички упит за ажурирање података у бази:**
 
 UPDATE naziv_tabele
     SET(atribut1, atribut2, ...)=(nove vrednosti)
     WHERE [kriterijum selekcije n-torki]
-    
+- Следећи упит ће ажурирати ред из табеле "студенти" тј. студента који има шифру 3:
+
+![update](/github-slike/update.png)
+
 **Оператори уније, пресека и разлике Ове операције се ослањају на истоимене операције у релационој алгебри. Пример пресека:**
 
 SELECT atribut_1
@@ -105,6 +126,7 @@ SELECT atribut_1
     FROM tabela_2;
 
     WHERE [kriterijum selekcije n-torki]
+- Следећи упит ће вратити све редове табеле "предмет" тј. све предмете који се не налазе у табели "студент": 
 
- 
+![except](/github-slike/except.png)
 
